@@ -3,11 +3,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-/**
- * Ejercicio 1. Registro de estudiantes y calificaciones
- * Guarda 3 estudiantes en estudiantes.txt (dos líneas por estudiante:
- * la primera con el nombre y la segunda con la calificación).
- */
+
 public class Ejercicio1 {
 
     public static void main(String[] args) {
