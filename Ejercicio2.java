@@ -3,10 +3,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-/**
- * Ejercicio 2. Registro de productos con modo Append
- * Guarda productos en productos.txt sin borrar los registros anteriores.
- */
 public class Ejercicio2 {
 
     public static void main(String[] args) {
