@@ -3,12 +3,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-/**
- * Ejercicio 3. Sistema de registro de ventas
- * Registra ventas en ventas.txt (modo append) hasta que el usuario escriba "fin".
- * Si el subtotal es >= $100 se aplica un 10% de descuento.
- * Al finalizar guarda el total acumulado.
- */
 public class Ejercicio3 {
 
     public static void main(String[] args) {
